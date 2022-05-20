@@ -1,4 +1,4 @@
-<img src="/Images/QUAREP_logo_stacked.svg" alt="QUAREP-LiMi Logo" width=80%>
+<img src="https://user-images.githubusercontent.com/46500427/169546744-449f340c-24b9-4a83-9f4f-8a96902b18ed.svg" alt="QUAREP-LiMi Logo" width=80%>
 
 # Measurement Automation of Microscope Stage Stability and Reproducibility
 ## Introduction
